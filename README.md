@@ -7,6 +7,6 @@ Viel Spaß!
 
 Aufgabenstellung
 ================
-Einen kUrzfilm erstellen, welche über die Story, wie das Script, den animierten Bildern und allen anderen zu 100% von einer KI geschaffen wurde.
+Einen Kurzfilm erstellen, welcher über die Story, wie das Script, den animierten Bildern, der Sprache und allem anderen zu 100% von einer KI geschaffen wurde.
 
 
